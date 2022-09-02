@@ -1,2 +1,3 @@
 # SummerPractice
-Plotly Dash visualization
+Plotly Dash visualization 
+...Summer 2022
